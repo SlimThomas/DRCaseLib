@@ -1,0 +1,6 @@
+@DRRecordAPI_HostAddress = http://localhost:5268
+
+GET {{DRRecordAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

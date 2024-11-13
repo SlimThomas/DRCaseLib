@@ -1,0 +1,6 @@
+@RecordREST_HostAddress = http://localhost:5273
+
+GET {{RecordREST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
